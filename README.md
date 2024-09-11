@@ -12,3 +12,11 @@ This is **bold**
 let x
 x = 5
 ```
+
+---
+
+| Syntax | Description |
+| ---------- | ---------- |
+| Header | Title |
+| Paragraph | Text |
+

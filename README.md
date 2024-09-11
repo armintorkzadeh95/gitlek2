@@ -20,5 +20,6 @@ This is **bold**
 | ---------- | ---------- |
 | Header | Title |
 | Paragraph | Text |
+>>>>>>> dfbcbb537692ff637f16030d25fd0f9837e5949b
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")

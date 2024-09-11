@@ -1,4 +1,4 @@
-HEAD
+<<<<<<< HEAD
 ´´´js 
 ´´´
 sasdas
@@ -21,4 +21,5 @@ This isder **bold**
 | ---------- | ---------- |
 | Header | Title |
 | Paragraph | Text |
->>>>>>> dfbcbb537692ff637f16030d25fd0f9837e5949b
+
+![Tux, the Linux mascot](/assets/images/tux.png)

@@ -1,3 +1,9 @@
+
+´´´js 
+´´´
+sasdas
+# gitlek2
+=======
 # gitlek2
 
 
@@ -8,15 +14,10 @@ This is **bold**
 3. Third item
 
 
-```js
-let x
-x = 5
-```
-
 ---
 
 | Syntax | Description |
 | ---------- | ---------- |
 | Header | Title |
 | Paragraph | Text |
-
+>>>>>>> dfbcbb537692ff637f16030d25fd0f9837e5949b

@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ´´´js 
 ´´´
 sasdas
@@ -20,7 +20,6 @@ This is **bold**
 | ---------- | ---------- |
 | Header | Title |
 | Paragraph | Text |
-
 
 ```mermaid
 ---

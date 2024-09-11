@@ -9,3 +9,8 @@ This is **bold**
 
 
 ---
+
+| Syntax | Description |
+| ---------- | ---------- |
+| Header | Title |
+| Paragraph | Text |

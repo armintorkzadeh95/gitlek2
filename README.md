@@ -7,3 +7,8 @@ This is **bold**
 2. Second item
 3. Third item
 
+
+```js
+let x
+x = 5
+```

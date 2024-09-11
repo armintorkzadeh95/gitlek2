@@ -20,3 +20,5 @@ This is **bold**
 | ---------- | ---------- |
 | Header | Title |
 | Paragraph | Text |
+
+![Tux, the Linux mascot](/assets/images/tux.png)

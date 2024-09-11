@@ -1,4 +1,4 @@
-
+<<<<<<< HEAD
 ´´´js 
 ´´´
 sasdas
@@ -7,8 +7,7 @@ sasdas
 # gitlek2
 
 
-
-This isder **bold**
+This is **bold**
 
 1. First item
 2. Second item
@@ -21,14 +20,4 @@ This isder **bold**
 | ---------- | ---------- |
 | Header | Title |
 | Paragraph | Text |
-
-```mermaid
----
-title: Order example
----
-erDiagram
-    CUSTOMER ||--o{ ORDER : places
-    ORDER ||--|{ LINE-ITEM : contains
-    CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
-```
-
+>>>>>>> dfbcbb537692ff637f16030d25fd0f9837e5949b
